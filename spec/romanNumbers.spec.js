@@ -6,5 +6,4 @@ describe('romanNumbers-js-kata', function(){
     var result = romanNumbers.convertToRoman(1);
     expect(result).toBe('I');
   });
-
 });
