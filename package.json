@@ -1,0 +1,17 @@
+{
+  "name": "fizzbuzz-js",
+  "version": "0.0.1",
+  "description": "My First Coding DOJO : Fizz Buzz",
+  "main": "romanNumbers.spec.js",
+  "dependencies": {
+    "jasmine-node": "~1.14.5",
+    "request": "~2.72.0",
+    "require": "~2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "sudo ./node_modules/.bin/jasmine-node spec"
+  },
+  "author": "Erwann",
+  "license": "BSD-2-Clause"
+}
